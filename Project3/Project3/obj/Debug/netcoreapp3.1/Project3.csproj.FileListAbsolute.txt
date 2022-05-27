@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.exe
+C:\Users\BAKU\source\repos\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.deps.json
+C:\Users\BAKU\source\repos\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.json
+C:\Users\BAKU\source\repos\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.dll
+C:\Users\BAKU\source\repos\Project3\Project3\bin\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.dll
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\BAKU\source\repos\Project3\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache
